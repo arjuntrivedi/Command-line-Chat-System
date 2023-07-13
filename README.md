@@ -19,7 +19,7 @@ It uses the poll function to know when data is available to read or when it can 
 
 
 ## Technologies
-I used C, Socket Programming, TCP/IP, POSIX System Calls, and Memory Management.
+I used C and Socket Programming, applying concepts including TCP/IP, protocol POSIX System Calls, and I/O handling.
 
 ## Setup
 - Compile the C code using a compiler like gcc
